@@ -65,4 +65,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Project Link: [https://github.com/yourusername/dropbox-deduplicator](https://github.com/yourusername/dropbox-deduplicator)
+Project Link: [https://github.com/aaronedell/dropbox-deduplicator](https://github.com/aaronedell/dropbox-deduplicator)
