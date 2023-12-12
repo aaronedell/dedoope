@@ -34,6 +34,7 @@ Make sure you have Python installed on your system (Python 3.6 or later is recom
 
 ```bash
 pip install dropbox tqdm
+```
 
 #### Downloading and Running the Script
 
