@@ -1,5 +1,7 @@
 # dedoope
 
+![Dedoope Marketing Image](dedoope.png)
+
 ## Introduction
 
 Welcome to dedoope - the Dropbox Deduplicator! This tool is designed to help you efficiently deduplicate files in your Dropbox account. By identifying and managing duplicate files, you can save valuable time and reduce unnecessary storage costs. This Python-based utility is user-friendly and can be a great addition to your file management toolkit.
