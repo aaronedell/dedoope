@@ -61,7 +61,7 @@ Your contributions are what make the open-source community such an amazing place
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the Apache License. See `LICENSE` for more information.
 
 ## Contact
 
